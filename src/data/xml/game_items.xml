@@ -1,0 +1,7 @@
+<items>
+	<ammoPack id = "0" ammoCount = "30" refillWeapon = "rifle" rarity = "25"> Rifle ammo </ammoPack>
+	<ammoPack id = "1" ammoCount = "14" refillWeapon = "handgun" rarity = "50"> Handgun ammo </ammoPack>
+	
+	<healthPack id = "0" healthRefill = "40" rarity = "25"> Healthshot </healthPack>
+	<healthPack id = "1" healthRefill = "100" rarity = "10"> Medpack </healthPack>
+</items>

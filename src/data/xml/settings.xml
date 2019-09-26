@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<settings>
+    <fullScreen>true</fullScreen>
+    <resolution>0</resolution>
+    <frameRate>60</frameRate>
+    <displayFPS>true</displayFPS>
+</settings>

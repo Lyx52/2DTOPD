@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<weapons> 
+	<rifle id = "0" ammopermag = "30" defaultammo = "90" damage = "30" armorpen = "75" idleLoc = "data/sprites/rifle/idle" moveLoc = "data/sprites/rifle/move" shootLoc = "data/sprites/rifle/shoot" reloadLoc = "data/sprites/rifle/reload"> AK-47 </rifle>
+	
+	<handgun id = "0" ammopermag = "7" defaultammo = "21" damage = "15" armorpen = "50" idleLoc = "data/sprites/handgun/idle" moveLoc = "data/sprites/handgun/move" shootLoc = "data/sprites/handgun/shoot" reloadLoc = "data/sprites/handgun/reload"> M1911 </handgun>
+	
+	<mele id = "0" damage = "50" armorpen = "90" idleLoc = "data/sprites/knife/idle" moveLoc = "data/sprites/knife/move" shootLoc = "data/sprites/knife/attack"> Knife </mele>
+</weapons>
