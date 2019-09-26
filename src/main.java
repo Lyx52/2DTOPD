@@ -9,7 +9,7 @@ public class main extends PApplet {
 
   private int playerSize = 0, //Player colbox size
               tileSize = 0, //Invdividual tile size
-              maxZombies = 20, //Max zombies spawned at one time
+              maxZombies = 10, //Max zombies spawned at one time
               lastBiteFrameCount = 0, //Last frame count since zombie has bitten
               mapHeight = 256, mapWidth = 256, //Map width & height
               gameHours = 0, gameMinutes = 0; //Game time
